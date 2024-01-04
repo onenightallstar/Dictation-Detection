@@ -1,4 +1,4 @@
 # Dictation Detection
-This is project for detecting dictation
+This is a project for detecting dictation
 
 Django + Vue
